@@ -59,3 +59,12 @@ P{
 .carousel-control-prev{
     color: aqua;
 }
+.carousel-control-next{
+    width: 100px;
+}
+.carousel-control-prev{
+    width: 100px;
+}
+.carousel{
+    opacity: 0.5;
+}
