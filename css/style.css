@@ -3,7 +3,9 @@ body{
     background-image: url(../img/banner.jpg);
     background-size: cover; 
     background-position: center; 
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0; 
 }
 
 h1{
@@ -51,8 +53,9 @@ P{
 .col-md-6 {
     background-color: rgb(0, 0, 0);
 }
-
-.imgs{
-    align-items: center;
+.carousel-control-next{
+    color: aquamarine;
 }
-
+.carousel-control-prev{
+    color: aqua;
+}
