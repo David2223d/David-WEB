@@ -4,8 +4,7 @@ body{
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat;
-    margin: 0;
-    padding: 0; 
+    
 }
 
 h1{
@@ -66,5 +65,6 @@ P{
     width: 100px;
 }
 .carousel{
+    
     opacity: 0.5;
 }
